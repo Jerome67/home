@@ -1,0 +1,179 @@
+CC1101] Data: D4 AA 5B 2C 10 05 12 18 FF FF FF 00 08 04 06 16 FF F0 80 00 00 00 00 00 00 00 00 
+17:38:09.786 -> [CC1101] R [D4] RSSI: -81.0
+17:38:09.786 -> find_slot(): ID=2C100512
+17:38:09.786 -> find_slot(): Storing into slot #0
+17:38:09.832 -> Temp: 1  Hum: 1  UV: 1  Wind: 1  Rain: 0  Moist: 0
+17:38:09.832 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  4.0C] Hum: [ 16%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] RSSI: [-81.0dBm]
+17:38:11.027 -> [CC1101] Receive failed: [0]
+17:38:20.339 -> [CC1101] Receive failed: [0]
+17:38:21.810 -> [CC1101] Data: D4 8F 84 2C 10 05 92 18 FF FF FF 00 08 03 56 17 FF F0 30 00 00 00 00 00 00 00 00 
+17:38:21.810 -> [CC1101] R [D4] RSSI: -78.5
+17:38:21.810 -> Digest check failed - [8F84] != [2525]
+17:38:21.810 -> Parity wrong at column 0
+17:38:32.810 -> [CC1101] Receive failed: [0]
+17:38:33.801 -> [CC1101] Receive failed: [0]
+17:38:45.818 -> [CC1101] Data: D4 09 3C 2C 10 05 02 18 FF FF FF 00 08 02 66 17 FF F0 21 00 00 00 00 00 00 00 00 
+17:38:45.818 -> [CC1101] R [D4] RSSI: -74.5
+17:38:45.818 -> Digest check failed - [93C] != [3E6C]
+17:38:45.818 -> Parity wrong at column 0
+17:38:47.838 -> [CC1101] Receive failed: [0]
+17:38:56.716 -> [CC1101] Receive failed: [0]
+17:38:57.778 -> [CC1101] Data: D4 67 78 2C 10 05 12 18 FF FF FF 00 08 02 16 18 FF F0 70 00 00 00 00 00 00 00 00 
+17:38:57.826 -> [CC1101] R [D4] RSSI: -75.5
+17:38:57.826 -> find_slot(): ID=2C100512
+17:38:57.826 -> find_slot(): Storing into slot #0
+17:38:57.826 -> Temp: 1  Hum: 1  UV: 1  Wind: 1  Rain: 0  Moist: 0
+17:38:57.826 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  2.1C] Hum: [ 18%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] RSSI: [-75.5dBm]
+17:39:01.561 -> [CC1101] Receive failed: [0]
+17:39:08.322 -> [CC1101] Receive failed: [0]
+17:39:09.700 -> [CC1101] Receive failed: [0]
+17:39:27.887 -> [CC1101] Receive failed: [0]
+17:39:33.776 -> [CC1101] Data: D4 D2 54 2C 10 05 12 18 FF FF FF 00 08 00 86 19 FF F0 01 00 00 00 00 00 00 00 00 
+17:39:33.824 -> [CC1101] R [D4] RSSI: -75.0
+17:39:33.824 -> find_slot(): ID=2C100512
+17:39:33.824 -> find_slot(): Storing into slot #0
+17:39:33.824 -> Temp: 1  Hum: 1  UV: 1  Wind: 1  Rain: 0  Moist: 0
+17:39:33.824 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  0.8C] Hum: [ 19%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] RSSI: [-75.0dBm]
+17:39:45.818 -> [CC1101] Data: D4 61 F0 2C 10 05 12 18 FF FF FF 00 08 00 46 19 FF F0 41 00 00 00 00 00 00 00 00 
+17:39:45.818 -> [CC1101] R [D4] RSSI: -75.0
+17:39:45.818 -> find_slot(): ID=2C100512
+17:39:45.818 -> find_slot(): Storing into slot #0
+17:39:45.818 -> Temp: 1  Hum: 1  UV: 1  Wind: 1  Rain: 0  Moist: 0
+17:39:45.818 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  0.4C] Hum: [ 19%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] RSSI: [-75.0dBm]
+17:39:57.811 -> [CC1101] Data: D4 0F 6C 2C 10 05 12 18 FF FF FF 00 08 00 06 19 FF F0 81 00 00 00 00 00 00 00 00 
+17:39:57.811 -> [CC1101] R [D4] RSSI: -74.5
+17:39:57.811 -> find_slot(): ID=2C100512
+17:39:57.811 -> find_slot(): Storing into slot #0
+17:39:57.811 -> Temp: 1  Hum: 1  UV: 1  Wind: 1  Rain: 0  Moist: 0
+17:39:57.811 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  0.0C] Hum: [ 19%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] RSSI: [-74.5dBm]
+17:40:09.816 -> [CC1101] Data: D4 BF 07 2C 10 05 12 18 FF FF FF 00 08 00 4E 20 FF F0 32 00 00 00 00 00 00 00 00 
+17:40:09.816 -> [CC1101] R [D4] RSSI: -76.5
+17:40:09.816 -> find_slot(): ID=2C100512
+17:40:09.816 -> find_slot(): Storing into slot #0
+17:40:09.816 -> Temp: 1  Hum: 1  UV: 1  Wind: 1  Rain: 0  Moist: 0
+17:40:09.816 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [-99.6C] Hum: [ 20%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] RSSI: [-76.5dBm]
+17:40:21.781 -> [CC1101] Data: D4 93 EE 2C 10 05 12 18 FF FF FF 00 08 00 7E 20 FF F0 02 00 00 00 00 00 00 00 00 
+17:40:21.781 -> [CC1101] R [D4] RSSI: -72.0
+17:40:21.781 -> find_slot(): ID=2C100512
+17:40:21.827 -> find_slot(): Storing into slot #0
+17:40:21.827 -> Temp: 1  Hum: 1  UV: 1  Wind: 1  Rain: 0  Moist: 0
+17:40:21.827 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [-99.3C] Hum: [ 20%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] RSSI: [-72.0dBm]
+17:40:28.913 -> [CC1101] Receive failed: [0]
+17:41:49.855 -> [CC1101] Receive failed: [0]
+17:41:52.766 -> [CC1101] Receive failed: [0]
+17:41:57.806 -> [CC1101] Data: D4 08 85 2C 10 05 12 18 FF FF FF 00 08 03 4E 23 FF F0 2C 00 00 00 00 00 00 00 00 
+17:41:57.806 -> [CC1101] R [D4] RSSI: -72.5
+17:41:57.806 -> find_slot(): ID=2C100512
+17:41:57.806 -> find_slot(): Storing into slot #0
+17:41:57.806 -> Temp: 1  Hum: 1  UV: 1  Wind: 1  Rain: 0  Moist: 0
+17:41:57.806 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [-96.6C] Hum: [ 23%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] RSSI: [-72.5dBm]
+17:41:59.747 -> [CC1101] Receive failed: [0]
+17:42:09.778 -> [CC1101] Data: D4 24 6C 2C 10 05 12 18 FF FF FF 00 08 03 7E 23 FF F0 FC 00 00 00 00 00 00 00 00 
+17:42:09.826 -> [CC1101] R [D4] RSSI: -72.5
+17:42:09.826 -> find_slot(): ID=2C100512
+17:42:09.826 -> find_slot(): Storing into slot #0
+17:42:09.826 -> Temp: 1  Hum: 1  UV: 1  Wind: 1  Rain: 0  Moist: 0
+17:42:09.826 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [-96.3C] Hum: [ 23%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] RSSI: [-72.5dBm]
+17:42:10.664 -> [CC1101] Receive failed: [0]
+17:42:11.506 -> [CC1101] Receive failed: [0]
+17:42:11.887 -> [CC1101] Receive failed: [0]
+17:42:21.099 -> [CC1101] Receive failed: [0]
+17:42:32.833 -> [CC1101] Receive failed: [0]
+17:42:33.660 -> [CC1101] Receive failed: [0]
+17:42:33.800 -> [CC1101] Data: D4 B3 13 2C 10 05 12 18 FF FF FF 00 08 04 2E 24 FF F0 4A 00 00 00 00 00 00 00 00 
+17:42:33.800 -> [CC1101] R [D4] RSSI: -71.5
+17:42:33.800 -> find_slot(): ID=2C100512
+17:42:33.800 -> find_slot(): Storing into slot #0
+17:42:33.800 -> Temp: 1  Hum: 1  UV: 1  Wind: 1  Rain: 0  Moist: 0
+17:42:33.800 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [-95.8C] Hum: [ 24%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] RSSI: [-71.5dBm]
+17:42:44.907 -> [CC1101] Receive failed: [0]
+17:42:45.779 -> [CC1101] Data: D4 C6 56 2C 10 05 12 18 FF FF FF 00 08 04 5E 25 FF F0 19 00 00 00 00 00 00 00 00 
+17:42:45.826 -> [CC1101] R [D4] RSSI: -78.5
+17:42:45.826 -> find_slot(): ID=2C100512
+17:42:45.826 -> find_slot(): Storing into slot #0
+17:42:45.826 -> Temp: 1  Hum: 1  UV: 1  Wind: 1  Rain: 0  Moist: 0
+17:42:45.826 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [-95.5C] Hum: [ 25%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] RSSI: [-78.5dBm]
+17:42:57.814 -> [CC1101] Data: D4 F1 18 2C 10 05 12 18 FF FF FF 00 08 04 7E 25 FF F0 F9 00 00 00 00 00 00 00 00 
+17:42:57.814 -> [CC1101] R [D4] RSSI: -76.0
+17:42:57.814 -> find_slot(): ID=2C100512
+17:42:57.814 -> find_slot(): Storing into slot #0
+17:42:57.814 -> Temp: 1  Hum: 1  UV: 1  Wind: 1  Rain: 0  Moist: 0
+17:42:57.814 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [-95.3C] Hum: [ 25%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] RSSI: [-76.0dBm]
+17:43:09.786 -> [CC1101] Data: D4 75 F2 2C 10 05 12 18 FF FF FF 00 08 04 9E 25 FF F0 D9 00 00 00 00 00 00 00 00 
+17:43:09.832 -> [CC1101] R [D4] RSSI: -73.5
+17:43:09.832 -> find_slot(): ID=2C100512
+17:43:09.832 -> find_slot(): Storing into slot #0
+17:43:09.832 -> Temp: 1  Hum: 1  UV: 1  Wind: 1  Rain: 0  Moist: 0
+17:43:09.832 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [-95.1C] Hum: [ 25%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] RSSI: [-73.5dBm]
+17:43:21.806 -> [CC1101] Data: D4 9F 78 2C 10 05 12 18 FF FF FF 00 08 04 7E 27 FF F0 F7 00 00 00 00 00 00 00 00 
+17:43:21.806 -> [CC1101] R [D4] RSSI: -61.5
+17:43:21.806 -> find_slot(): ID=2C100512
+17:43:21.806 -> find_slot(): Storing into slot #0
+17:43:21.806 -> Temp: 1  Hum: 1  UV: 1  Wind: 1  Rain: 0  Moist: 0
+17:43:21.806 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [-95.3C] Hum: [ 27%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] RSSI: [-61.5dBm]
+17:43:31.352 -> [CC1101] Receive failed: [0]
+17:43:37.953 -> [CC1101] Receive failed: [0]
+17:43:38.550 -> [CC1101] Receive failed: [0]
+17:43:46.858 -> [CC1101] Receive failed: [0]
+17:43:52.584 -> [CC1101] Receive failed: [0]
+17:43:57.817 -> [CC1101] Data: D4 60 6D 2C 10 05 12 18 FF FF FF 00 08 03 3E 62 FF F0 FD 00 00 00 00 00 00 00 00 
+17:43:57.817 -> [CC1101] R [D4] RSSI: -37.0
+17:43:57.817 -> find_slot(): ID=2C100512
+17:43:57.817 -> find_slot(): Storing into slot #0
+17:43:57.817 -> Temp: 1  Hum: 1  UV: 1  Wind: 1  Rain: 0  Moist: 0
+17:43:57.817 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [-96.7C] Hum: [ 62%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] RSSI: [-37.0dBm]
+17:43:58.698 -> [CC1101] Receive failed: [0]
+17:44:09.185 -> [CC1101] Receive failed: [0]
+17:44:09.794 -> [CC1101] Data: D4 18 52 2C 10 05 12 18 FF AA FF 00 08 02 4E 67 FF F0 3E 00 00 00 00 00 00 00 00 
+17:44:09.794 -> [CC1101] R [D4] RSSI: -68.0
+17:44:09.794 -> find_slot(): ID=2C100512
+17:44:09.794 -> find_slot(): Storing into slot #0
+17:44:09.842 -> Temp: 1  Hum: 1  UV: 1  Wind: 1  Rain: 0  Moist: 0
+17:44:09.842 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [-97.6C] Hum: [ 67%] Wind max: [ 0.5m/s] Wind avg: [ 0.5m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] RSSI: [-68.0dBm]
+17:44:09.979 -> [CC1101] Receive failed: [0]
+17:44:11.747 -> [CC1101] Receive failed: [0]
+17:44:17.473 -> [CC1101] Receive failed: [0]
+17:44:23.715 -> [CC1101] Receive failed: [0]
+17:44:24.041 -> [CC1101] Receive failed: [0]
+17:44:26.157 -> [CC1101] Receive failed: [0]
+17:44:33.797 -> [CC1101] Data: D4 CE D0 2C 10 05 12 18 FF FF FF 00 08 01 7E 78 FF F0 A9 00 00 00 00 00 00 00 00 
+17:44:33.797 -> [CC1101] R [D4] RSSI: -56.5
+17:44:33.797 -> find_slot(): ID=2C100512
+17:44:33.797 -> find_slot(): Storing into slot #0
+17:44:33.797 -> Temp: 1  Hum: 1  UV: 1  Wind: 1  Rain: 0  Moist: 0
+17:44:33.843 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [-98.3C] Hum: [ 78%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] RSSI: [-56.5dBm]
+17:44:40.279 -> [CC1101] Receive failed: [0]
+17:44:44.196 -> [CC1101] Receive failed: [0]
+17:44:45.803 -> [CC1101] Data: D4 DD F1 2C 10 05 12 18 FF FF FF 00 08 01 1E 80 FF F0 01 00 00 00 00 00 00 00 00 
+17:44:45.803 -> [CC1101] R [D4] RSSI: -62.0
+17:44:45.803 -> find_slot(): ID=2C100512
+17:44:45.803 -> find_slot(): Storing into slot #0
+17:44:45.803 -> Temp: 1  Hum: 1  UV: 1  Wind: 1  Rain: 0  Moist: 0
+17:44:45.803 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [-98.9C] Hum: [ 80%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] RSSI: [-62.0dBm]
+17:44:49.438 -> [CC1101] Receive failed: [0]
+17:44:57.792 -> [CC1101] Data: D4 40 6C 2C 10 05 12 18 FF FF FF 00 08 00 5E 83 FF F0 BF 00 00 00 00 00 00 00 00 
+17:44:57.792 -> [CC1101] R [D4] RSSI: -81.5
+17:44:57.792 -> find_slot(): ID=2C100512
+17:44:57.838 -> find_slot(): Storing into slot #0
+17:44:57.838 -> Temp: 1  Hum: 1  UV: 1  Wind: 1  Rain: 0  Moist: 0
+17:44:57.838 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [-99.5C] Hum: [ 83%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] RSSI: [-81.5dBm]
+17:45:00.041 -> [CC1101] Receive failed: [0]
+17:45:00.180 -> [CC1101] Receive failed: [0]
+17:45:08.406 -> [CC1101] Receive failed: [0]
+17:45:09.787 -> [CC1101] Data: D4 F1 17 2C 10 05 12 18 FE BD FE 00 08 00 56 84 FF F0 0A 00 00 00 00 00 00 00 00 
+17:45:09.833 -> [CC1101] R [D4] RSSI: -96.5
+17:45:09.833 -> find_slot(): ID=2C100512
+17:45:09.833 -> find_slot(): Storing into slot #0
+17:45:09.833 -> Temp: 1  Hum: 1  UV: 1  Wind: 1  Rain: 0  Moist: 0
+17:45:09.833 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  0.5C] Hum: [ 84%] Wind max: [ 1.4m/s] Wind avg: [ 1.2m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] RSSI: [-96.5dBm]
+17:45:20.630 -> [CC1101] Receive failed: [0]
+17:45:21.138 -> [CC1101] Receive failed: [0]
+17:45:54.702 -> [CC1101] Receive failed: [0]
+17:45:54.977 -> [CC1101] Receive failed: [0]
+17:45:57.826 -> [CC1101] Data: D4 F6 F1 2C 10 05 12 18 FF 77 FF 00 08 03 56 66 FF F0 69 00 00 00 00 00 00 00 00 
+17:45:57.826 -> [CC1101] R [D4] RSSI: -83.5
+17:45:57.826 -> find_slot(): ID=2C100512
+17:45:57.826 -> find_slot(): Storing into slot #0
+17:45:57.826 -> Temp: 1  Hum: 1  UV: 1  Wind: 1  Rain: 0  Moist: 0
+17:45:57.826 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  3.5C] Hum: [ 66%] Wind max: [ 0.8m/s] Wind avg: [ 0.8m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] RSSI: [-83.5dBm]
+
