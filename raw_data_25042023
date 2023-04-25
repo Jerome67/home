@@ -1,0 +1,881 @@
+15:45:12.144 -> Starting execution...
+15:45:12.190 -> [CC1101] Initializing ... 
+15:45:12.331 -> success!
+15:45:12.331 -> [CC1101] Setup complete - awaiting incoming messages...
+15:45:15.399 -> [CC1101] Receive failed: [0]
+15:45:20.487 -> [CC1101] Data: D4 5D 47 2C 10 05 12 18 FF 66 FF 00 08 10 36 86 FF F0 6D 00 00 00 00 00 00 00 00 
+15:45:20.487 -> [CC1101] R [D4] RSSI: -69.5
+15:45:20.487 -> DECODE_FAIL_SANITY !!!
+15:45:20.487 -> Digest check failed - [F7ED] Vs [9687] (616A)
+15:45:20.487 -> find_slot(): ID=2C100512
+15:45:20.487 -> find_slot(): Storing into slot #0
+15:45:20.487 -> ID 2C100512 is a Professional Wind Gauge
+15:45:20.487 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:45:20.487 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.3C] Hum: [ 86%] Wind max: [ 0.9m/s] Wind avg: [ 0.9m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-69.5dBm]
+15:45:29.175 -> [CC1101] Receive failed: [0]
+15:45:32.468 -> [CC1101] Data: D4 2B 51 2C 10 05 12 18 FE CD FE 00 08 10 46 86 FF F0 F8 00 00 00 00 00 00 00 00 
+15:45:32.468 -> [CC1101] R [D4] RSSI: -69.0
+15:45:32.468 -> DECODE_FAIL_SANITY !!!
+15:45:32.468 -> Digest check failed - [81FB] Vs [C183] (4078)
+15:45:32.468 -> find_slot(): ID=2C100512
+15:45:32.468 -> find_slot(): Storing into slot #0
+15:45:32.468 -> ID 2C100512 is a Professional Wind Gauge
+15:45:32.468 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:45:32.514 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.4C] Hum: [ 86%] Wind max: [ 1.3m/s] Wind avg: [ 1.2m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-69.0dBm]
+15:45:41.382 -> [CC1101] Receive failed: [0]
+15:45:48.869 -> [CC1101] Receive failed: [0]
+15:45:55.420 -> [CC1101] Receive failed: [0]
+15:45:56.446 -> [CC1101] Data: D4 5D 47 2C 10 05 12 18 FF 66 FF 00 08 10 36 86 FF F0 6D 00 00 00 00 00 00 00 00 
+15:45:56.493 -> [CC1101] R [D4] RSSI: -68.5
+15:45:56.493 -> DECODE_FAIL_SANITY !!!
+15:45:56.493 -> Digest check failed - [F7ED] Vs [9687] (616A)
+15:45:56.493 -> find_slot(): ID=2C100512
+15:45:56.493 -> find_slot(): Storing into slot #0
+15:45:56.493 -> ID 2C100512 is a Professional Wind Gauge
+15:45:56.493 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:45:56.493 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.3C] Hum: [ 86%] Wind max: [ 0.9m/s] Wind avg: [ 0.9m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-68.5dBm]
+15:46:07.525 -> [CC1101] Receive failed: [0]
+15:46:07.760 -> [CC1101] Receive failed: [0]
+15:46:12.995 -> [CC1101] Receive failed: [0]
+15:46:20.458 -> [CC1101] Data: D4 DC 87 2C 10 05 12 18 FE 67 FE 00 08 10 46 86 FF F0 5E 00 00 00 00 00 00 00 00 
+15:46:20.458 -> [CC1101] R [D4] RSSI: -69.5
+15:46:20.458 -> DECODE_FAIL_SANITY !!!
+15:46:20.458 -> Digest check failed - [762D] Vs [BA20] (CC0D)
+15:46:20.505 -> find_slot(): ID=2C100512
+15:46:20.505 -> find_slot(): Storing into slot #0
+15:46:20.505 -> ID 2C100512 is a Professional Wind Gauge
+15:46:20.505 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:46:20.505 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.4C] Hum: [ 86%] Wind max: [ 1.9m/s] Wind avg: [ 1.8m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-69.5dBm]
+15:46:27.636 -> [CC1101] Receive failed: [0]
+15:46:32.102 -> [CC1101] Receive failed: [0]
+15:46:32.474 -> [CC1101] Data: D4 92 5B 2C 10 05 12 18 FE AB FE 00 08 10 56 86 FF F0 0A 00 00 00 00 00 00 00 00 
+15:46:32.474 -> [CC1101] R [D4] RSSI: -68.5
+15:46:32.474 -> DECODE_FAIL_SANITY !!!
+15:46:32.474 -> Digest check failed - [38F1] Vs [D142] (E9B3)
+15:46:32.474 -> find_slot(): ID=2C100512
+15:46:32.474 -> find_slot(): Storing into slot #0
+15:46:32.474 -> ID 2C100512 is a Professional Wind Gauge
+15:46:32.474 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:46:32.474 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.5C] Hum: [ 86%] Wind max: [ 1.5m/s] Wind avg: [ 1.4m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-68.5dBm]
+15:46:32.845 -> [CC1101] Receive failed: [0]
+15:46:38.477 -> [CC1101] Receive failed: [0]
+15:46:44.445 -> [CC1101] Data: D4 89 82 2C 10 05 12 18 FE AB FE 00 08 10 66 87 FF F0 F9 00 00 00 00 00 00 00 00 
+15:46:44.491 -> [CC1101] R [D4] RSSI: -70.0
+15:46:44.491 -> DECODE_FAIL_SANITY !!!
+15:46:44.491 -> Digest check failed - [2328] Vs [B65A] (9572)
+15:46:44.491 -> find_slot(): ID=2C100512
+15:46:44.491 -> find_slot(): Storing into slot #0
+15:46:44.491 -> ID 2C100512 is a Professional Wind Gauge
+15:46:44.491 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:46:44.491 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.6C] Hum: [ 87%] Wind max: [ 1.5m/s] Wind avg: [ 1.4m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-70.0dBm]
+15:46:48.505 -> [CC1101] Receive failed: [0]
+15:46:56.480 -> [CC1101] Data: D4 A5 6B 2C 10 05 12 18 FE AB FE 00 08 10 56 87 FF F0 09 00 00 00 00 00 00 00 00 
+15:46:56.480 -> [CC1101] R [D4] RSSI: -67.0
+15:46:56.480 -> DECODE_FAIL_SANITY !!!
+15:46:56.480 -> Digest check failed - [FC1] Vs [6685] (6944)
+15:46:56.480 -> find_slot(): ID=2C100512
+15:46:56.480 -> find_slot(): Storing into slot #0
+15:46:56.480 -> ID 2C100512 is a Professional Wind Gauge
+15:46:56.480 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:46:56.480 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.5C] Hum: [ 87%] Wind max: [ 1.5m/s] Wind avg: [ 1.4m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-67.0dBm]
+15:46:58.709 -> [CC1101] Receive failed: [0]
+15:47:08.479 -> [CC1101] Data: D4 BE B2 2C 10 05 12 18 FE AB FE 00 08 10 66 86 FF F0 FA 00 00 00 00 00 00 00 00 
+15:47:08.479 -> [CC1101] R [D4] RSSI: -68.0
+15:47:08.479 -> DECODE_FAIL_SANITY !!!
+15:47:08.479 -> Digest check failed - [1418] Vs [19D] (1585)
+15:47:08.479 -> find_slot(): ID=2C100512
+15:47:08.479 -> find_slot(): Storing into slot #0
+15:47:08.479 -> ID 2C100512 is a Professional Wind Gauge
+15:47:08.479 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:47:08.479 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.6C] Hum: [ 86%] Wind max: [ 1.5m/s] Wind avg: [ 1.4m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-68.0dBm]
+15:47:20.480 -> [CC1101] Data: D4 BA 30 2C 10 05 12 18 FE EE FE 00 08 10 76 87 FF F0 A6 00 00 00 00 00 00 00 00 
+15:47:20.480 -> [CC1101] R [D4] RSSI: -70.0
+15:47:20.480 -> DECODE_FAIL_SANITY !!!
+15:47:20.480 -> Digest check failed - [109A] Vs [27C7] (375D)
+15:47:20.480 -> find_slot(): ID=2C100512
+15:47:20.480 -> find_slot(): Storing into slot #0
+15:47:20.480 -> ID 2C100512 is a Professional Wind Gauge
+15:47:20.480 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:47:20.480 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.7C] Hum: [ 87%] Wind max: [ 1.1m/s] Wind avg: [ 1.1m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-70.0dBm]
+15:47:32.468 -> [CC1101] Data: D4 74 22 2C 10 05 12 18 FE 67 FE 00 08 10 86 88 FF F0 1C 00 00 00 00 00 00 00 00 
+15:47:32.468 -> [CC1101] R [D4] RSSI: -68.0
+15:47:32.468 -> DECODE_FAIL_SANITY !!!
+15:47:32.468 -> Digest check failed - [DE88] Vs [F3A4] (2D2C)
+15:47:32.468 -> find_slot(): ID=2C100512
+15:47:32.468 -> find_slot(): Storing into slot #0
+15:47:32.468 -> ID 2C100512 is a Professional Wind Gauge
+15:47:32.468 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:47:32.514 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.8C] Hum: [ 88%] Wind max: [ 1.9m/s] Wind avg: [ 1.8m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-68.0dBm]
+15:47:44.457 -> [CC1101] Data: D4 B1 91 2C 10 05 12 18 FE FF FE 00 08 10 86 88 FF F0 84 00 00 00 00 00 00 00 00 
+15:47:44.457 -> [CC1101] R [D4] RSSI: -69.5
+15:47:44.457 -> DECODE_FAIL_SANITY !!!
+15:47:44.457 -> Digest check failed - [1B3B] Vs [C675] (DD4E)
+15:47:44.503 -> find_slot(): ID=2C100512
+15:47:44.503 -> find_slot(): Storing into slot #0
+15:47:44.503 -> ID 2C100512 is a Professional Wind Gauge
+15:47:44.503 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:47:44.503 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.8C] Hum: [ 88%] Wind max: [ 1.0m/s] Wind avg: [ 1.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-69.5dBm]
+15:47:56.466 -> [CC1101] Data: D4 4F 13 2C 10 05 12 18 FF 77 FF 00 08 11 06 89 FF F0 88 00 00 00 00 00 00 00 00 
+15:47:56.466 -> [CC1101] R [D4] RSSI: -68.5
+15:47:56.466 -> DECODE_FAIL_SANITY !!!
+15:47:56.466 -> Digest check failed - [E5B9] Vs [D66E] (33D7)
+15:47:56.466 -> find_slot(): ID=2C100512
+15:47:56.466 -> find_slot(): Storing into slot #0
+15:47:56.466 -> ID 2C100512 is a Professional Wind Gauge
+15:47:56.514 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:47:56.514 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 11.0C] Hum: [ 89%] Wind max: [ 0.8m/s] Wind avg: [ 0.8m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-68.5dBm]
+15:47:58.325 -> [CC1101] Receive failed: [0]
+15:47:59.857 -> [CC1101] Receive failed: [0]
+15:48:03.109 -> [CC1101] Receive failed: [0]
+15:48:08.451 -> [CC1101] Data: D4 14 F2 2C 10 05 12 18 FE 79 FE 00 08 11 06 89 FF F0 88 00 00 00 00 00 00 00 00 
+15:48:08.499 -> [CC1101] R [D4] RSSI: -71.5
+15:48:08.499 -> DECODE_FAIL_SANITY !!!
+15:48:08.499 -> Digest check failed - [BE58] Vs [B94E] (716)
+15:48:08.499 -> find_slot(): ID=2C100512
+15:48:08.499 -> find_slot(): Storing into slot #0
+15:48:08.499 -> ID 2C100512 is a Professional Wind Gauge
+15:48:08.499 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:48:08.499 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 11.0C] Hum: [ 89%] Wind max: [ 1.8m/s] Wind avg: [ 1.6m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-71.5dBm]
+15:48:20.457 -> [CC1101] Data: D4 C0 FE 2C 10 05 12 18 FF 66 FF 00 08 11 06 88 FF F0 9A 00 00 00 00 00 00 00 00 
+15:48:20.457 -> [CC1101] R [D4] RSSI: -69.0
+15:48:20.457 -> DECODE_FAIL_SANITY !!!
+15:48:20.457 -> Digest check failed - [6A54] Vs [659D] (FC9)
+15:48:20.504 -> find_slot(): ID=2C100512
+15:48:20.504 -> find_slot(): Storing into slot #0
+15:48:20.504 -> ID 2C100512 is a Professional Wind Gauge
+15:48:20.504 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:48:20.504 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 11.0C] Hum: [ 88%] Wind max: [ 0.9m/s] Wind avg: [ 0.9m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-69.0dBm]
+15:48:25.010 -> [CC1101] Receive failed: [0]
+15:48:32.457 -> [CC1101] Data: D4 EE 6E 2C 10 05 12 18 FF FF FF 00 08 11 06 88 FF F0 01 00 00 00 00 00 00 00 00 
+15:48:32.457 -> [CC1101] R [D4] RSSI: -70.0
+15:48:32.457 -> DECODE_FAIL_SANITY !!!
+15:48:32.457 -> Digest check failed - [44C4] Vs [20EA] (642E)
+15:48:32.504 -> find_slot(): ID=2C100512
+15:48:32.504 -> find_slot(): Storing into slot #0
+15:48:32.504 -> ID 2C100512 is a Professional Wind Gauge
+15:48:32.504 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:48:32.504 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 11.0C] Hum: [ 88%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-70.0dBm]
+15:48:44.491 -> [CC1101] Data: D4 B9 B4 2C 10 05 12 18 FF AA FF 00 08 11 06 87 FF F0 57 00 00 00 00 00 00 00 00 
+15:48:44.491 -> [CC1101] R [D4] RSSI: -69.0
+15:48:44.491 -> DECODE_FAIL_SANITY !!!
+15:48:44.491 -> Digest check failed - [131E] Vs [BA3D] (A923)
+15:48:44.491 -> find_slot(): ID=2C100512
+15:48:44.491 -> find_slot(): Storing into slot #0
+15:48:44.491 -> ID 2C100512 is a Professional Wind Gauge
+15:48:44.491 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:48:44.491 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 11.0C] Hum: [ 87%] Wind max: [ 0.5m/s] Wind avg: [ 0.5m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-69.0dBm]
+15:48:45.745 -> [CC1101] Receive failed: [0]
+15:48:56.447 -> [CC1101] Data: D4 C2 5F 2C 10 05 12 18 FF FF FF 00 08 11 06 87 FF F0 02 00 00 00 00 00 00 00 00 
+15:48:56.494 -> [CC1101] R [D4] RSSI: -69.5
+15:48:56.494 -> DECODE_FAIL_SANITY !!!
+15:48:56.494 -> Digest check failed - [68F5] Vs [AED9] (C62C)
+15:48:56.494 -> find_slot(): ID=2C100512
+15:48:56.494 -> find_slot(): Storing into slot #0
+15:48:56.494 -> ID 2C100512 is a Professional Wind Gauge
+15:48:56.494 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:48:56.494 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 11.0C] Hum: [ 87%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-69.5dBm]
+15:48:58.912 -> [CC1101] Receive failed: [0]
+15:49:00.398 -> [CC1101] Receive failed: [0]
+15:49:08.480 -> [CC1101] Data: D4 EE C8 2C 10 05 12 18 FF FF FF 00 08 11 16 86 FF F0 F3 00 00 00 00 00 00 00 00 
+15:49:08.480 -> [CC1101] R [D4] RSSI: -69.5
+15:49:08.480 -> DECODE_FAIL_SANITY !!!
+15:49:08.480 -> Digest check failed - [4462] Vs [358] (473A)
+15:49:08.480 -> find_slot(): ID=2C100512
+15:49:08.480 -> find_slot(): Storing into slot #0
+15:49:08.480 -> ID 2C100512 is a Professional Wind Gauge
+15:49:08.480 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:49:08.480 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 11.1C] Hum: [ 86%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-69.5dBm]
+15:49:15.595 -> [CC1101] Receive failed: [0]
+15:49:29.754 -> [CC1101] Receive failed: [0]
+15:49:29.987 -> [CC1101] Receive failed: [0]
+15:49:41.947 -> [CC1101] Receive failed: [0]
+15:49:44.470 -> [CC1101] Data: D4 38 C3 2C 10 05 12 18 FE 79 FE 00 08 11 06 86 FF F0 8B 00 00 00 00 00 00 00 00 
+15:49:44.470 -> [CC1101] R [D4] RSSI: -68.0
+15:49:44.470 -> DECODE_FAIL_SANITY !!!
+15:49:44.470 -> Digest check failed - [9269] Vs [377D] (A514)
+15:49:44.470 -> find_slot(): ID=2C100512
+15:49:44.470 -> find_slot(): Storing into slot #0
+15:49:44.470 -> ID 2C100512 is a Professional Wind Gauge
+15:49:44.470 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:49:44.517 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 11.0C] Hum: [ 86%] Wind max: [ 1.8m/s] Wind avg: [ 1.6m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-68.0dBm]
+15:49:48.105 -> [CC1101] Receive failed: [0]
+15:49:56.453 -> [CC1101] Data: D4 3F 53 2C 10 05 12 18 FD BD FD 00 08 10 96 84 FF F0 BC 00 00 00 00 00 00 00 00 
+15:49:56.500 -> [CC1101] R [D4] RSSI: -70.5
+15:49:56.500 -> DECODE_FAIL_SANITY !!!
+15:49:56.500 -> Digest check failed - [95F9] Vs [A054] (35AD)
+15:49:56.500 -> find_slot(): ID=2C100512
+15:49:56.500 -> find_slot(): Storing into slot #0
+15:49:56.500 -> ID 2C100512 is a Professional Wind Gauge
+15:49:56.500 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:49:56.500 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.9C] Hum: [ 84%] Wind max: [ 2.4m/s] Wind avg: [ 2.2m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-70.5dBm]
+15:50:08.485 -> [CC1101] Data: D4 D1 A8 2C 10 05 12 18 FE AB FE 00 08 10 86 83 FF F0 DD 00 00 00 00 00 00 00 00 
+15:50:08.485 -> [CC1101] R [D4] RSSI: -68.5
+15:50:08.485 -> DECODE_FAIL_SANITY !!!
+15:50:08.485 -> Digest check failed - [7B02] Vs [D35A] (A858)
+15:50:08.485 -> find_slot(): ID=2C100512
+15:50:08.485 -> find_slot(): Storing into slot #0
+15:50:08.485 -> ID 2C100512 is a Professional Wind Gauge
+15:50:08.485 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:50:08.485 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.8C] Hum: [ 83%] Wind max: [ 1.5m/s] Wind avg: [ 1.4m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-68.5dBm]
+15:50:14.903 -> [CC1101] Receive failed: [0]
+15:50:16.907 -> [CC1101] Receive failed: [0]
+15:50:20.488 -> [CC1101] Data: D4 F2 9A 2C 10 05 12 18 FD AD FD 00 08 10 86 83 FF F0 DD 00 00 00 00 00 00 00 00 
+15:50:20.488 -> [CC1101] R [D4] RSSI: -68.5
+15:50:20.488 -> DECODE_FAIL_SANITY !!!
+15:50:20.488 -> Digest check failed - [5830] Vs [C1E2] (99D2)
+15:50:20.488 -> find_slot(): ID=2C100512
+15:50:20.488 -> find_slot(): Storing into slot #0
+15:50:20.488 -> ID 2C100512 is a Professional Wind Gauge
+15:50:20.488 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:50:20.488 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.8C] Hum: [ 83%] Wind max: [ 2.5m/s] Wind avg: [ 2.2m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-68.5dBm]
+15:50:32.486 -> [CC1101] Data: D4 51 C0 2C 10 05 12 18 FE EE FE 00 08 10 76 82 FF F0 AB 00 00 00 00 00 00 00 00 
+15:50:32.486 -> [CC1101] R [D4] RSSI: -68.5
+15:50:32.486 -> DECODE_FAIL_SANITY !!!
+15:50:32.486 -> Digest check failed - [FB6A] Vs [FBD] (F4D7)
+15:50:32.486 -> find_slot(): ID=2C100512
+15:50:32.486 -> find_slot(): Storing into slot #0
+15:50:32.486 -> ID 2C100512 is a Professional Wind Gauge
+15:50:32.486 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:50:32.486 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.7C] Hum: [ 82%] Wind max: [ 1.1m/s] Wind avg: [ 1.1m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-68.5dBm]
+15:50:44.478 -> [CC1101] Data: D4 B6 4B 2C 10 05 12 18 FF 66 FF 00 08 10 76 81 FF F0 32 00 00 00 00 00 00 00 00 
+15:50:44.478 -> [CC1101] R [D4] RSSI: -71.0
+15:50:44.478 -> DECODE_FAIL_SANITY !!!
+15:50:44.478 -> Digest check failed - [1CE1] Vs [AED6] (B237)
+15:50:44.478 -> find_slot(): ID=2C100512
+15:50:44.478 -> find_slot(): Storing into slot #0
+15:50:44.478 -> ID 2C100512 is a Professional Wind Gauge
+15:50:44.478 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:50:44.525 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.7C] Hum: [ 81%] Wind max: [ 0.9m/s] Wind avg: [ 0.9m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-71.0dBm]
+15:50:51.370 -> [CC1101] Receive failed: [0]
+15:50:56.481 -> [CC1101] Data: D4 E9 1D 2C 10 05 12 18 FE FF FE 00 08 10 76 82 FF F0 9A 00 00 00 00 00 00 00 00 
+15:50:56.481 -> [CC1101] R [D4] RSSI: -70.0
+15:50:56.481 -> DECODE_FAIL_SANITY !!!
+15:50:56.481 -> Digest check failed - [43B7] Vs [657F] (26C8)
+15:50:56.481 -> find_slot(): ID=2C100512
+15:50:56.481 -> find_slot(): Storing into slot #0
+15:50:56.481 -> ID 2C100512 is a Professional Wind Gauge
+15:50:56.481 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:50:56.481 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.7C] Hum: [ 82%] Wind max: [ 1.0m/s] Wind avg: [ 1.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-70.0dBm]
+15:51:02.675 -> [CC1101] Receive failed: [0]
+15:51:04.857 -> [CC1101] Receive failed: [0]
+15:51:08.476 -> [CC1101] Data: D4 55 77 2C 10 05 12 18 FE 79 FE 00 08 10 76 81 FF F0 21 00 00 00 00 00 00 00 00 
+15:51:08.476 -> [CC1101] R [D4] RSSI: -69.0
+15:51:08.476 -> DECODE_FAIL_SANITY !!!
+15:51:08.476 -> Digest check failed - [FFDD] Vs [A521] (5AFC)
+15:51:08.476 -> find_slot(): ID=2C100512
+15:51:08.476 -> find_slot(): Storing into slot #0
+15:51:08.476 -> ID 2C100512 is a Professional Wind Gauge
+15:51:08.476 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:51:08.524 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.7C] Hum: [ 81%] Wind max: [ 1.8m/s] Wind avg: [ 1.6m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-69.0dBm]
+15:51:08.860 -> [CC1101] Receive failed: [0]
+15:51:22.921 -> [CC1101] Data: D4 B0 4D 2C 10 05 12 18 FE FF FE 00 08 10 76 81 FF F0 9B 00 00 00 00 00 00 00 00 
+15:51:22.921 -> [CC1101] R [D4] RSSI: -68.5
+15:51:22.921 -> DECODE_FAIL_SANITY !!!
+15:51:22.921 -> Digest check failed - [1AE7] Vs [6CD1] (7636)
+15:51:22.921 -> find_slot(): ID=2C100512
+15:51:22.921 -> find_slot(): Storing into slot #0
+15:51:22.921 -> ID 2C100512 is a Professional Wind Gauge
+15:51:22.921 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:51:22.921 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.7C] Hum: [ 81%] Wind max: [ 1.0m/s] Wind avg: [ 1.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-68.5dBm]
+15:51:34.920 -> [CC1101] Data: D4 7A 0D 2C 10 05 12 18 FE AD FE 00 08 10 76 81 FF F0 ED 00 00 00 00 00 00 00 00 
+15:51:34.920 -> [CC1101] R [D4] RSSI: -68.5
+15:51:34.920 -> DECODE_FAIL_SANITY !!!
+15:51:34.920 -> Digest check failed - [D0A7] Vs [A6DE] (7679)
+15:51:34.920 -> find_slot(): ID=2C100512
+15:51:34.920 -> find_slot(): Storing into slot #0
+15:51:34.920 -> ID 2C100512 is a Professional Wind Gauge
+15:51:34.920 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:51:34.920 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.7C] Hum: [ 81%] Wind max: [ 1.5m/s] Wind avg: [ 1.2m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-68.5dBm]
+15:51:42.936 -> [CC1101] Receive failed: [0]
+15:51:46.921 -> [CC1101] Data: D4 70 56 2C 10 05 12 18 FF 66 FF 00 08 10 86 82 FF F0 21 00 00 00 00 00 00 00 00 
+15:51:46.921 -> [CC1101] R [D4] RSSI: -69.0
+15:51:46.921 -> DECODE_FAIL_SANITY !!!
+15:51:46.921 -> Digest check failed - [DAFC] Vs [C2D8] (1824)
+15:51:46.921 -> find_slot(): ID=2C100512
+15:51:46.921 -> find_slot(): Storing into slot #0
+15:51:46.921 -> ID 2C100512 is a Professional Wind Gauge
+15:51:46.921 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:51:46.921 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.8C] Hum: [ 82%] Wind max: [ 0.9m/s] Wind avg: [ 0.9m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-69.0dBm]
+15:51:58.927 -> [CC1101] Data: D4 EC 48 2C 10 05 12 18 FE CD FE 00 08 10 76 83 FF F0 CB 00 00 00 00 00 00 00 00 
+15:51:58.927 -> [CC1101] R [D4] RSSI: -69.5
+15:51:58.927 -> DECODE_FAIL_SANITY !!!
+15:51:58.927 -> Digest check failed - [46E2] Vs [7DBB] (3B59)
+15:51:58.927 -> find_slot(): ID=2C100512
+15:51:58.927 -> find_slot(): Storing into slot #0
+15:51:58.927 -> ID 2C100512 is a Professional Wind Gauge
+15:51:58.927 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:51:58.927 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.7C] Hum: [ 83%] Wind max: [ 1.3m/s] Wind avg: [ 1.2m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-69.5dBm]
+15:51:59.115 -> [CC1101] Receive failed: [0]
+15:52:05.603 -> [CC1101] Receive failed: [0]
+15:52:06.636 -> [CC1101] Receive failed: [0]
+15:52:06.827 -> [CC1101] Receive failed: [0]
+15:52:08.238 -> [CC1101] Receive failed: [0]
+15:52:10.926 -> [CC1101] Data: D4 CE 89 2C 10 05 12 18 FE 9A FE 00 08 10 86 83 FF F0 EE 00 00 00 00 00 00 00 00 
+15:52:10.926 -> [CC1101] R [D4] RSSI: -69.5
+15:52:10.926 -> DECODE_FAIL_SANITY !!!
+15:52:10.926 -> Digest check failed - [6423] Vs [9F6F] (FB4C)
+15:52:10.926 -> find_slot(): ID=2C100512
+15:52:10.926 -> find_slot(): Storing into slot #0
+15:52:10.926 -> ID 2C100512 is a Professional Wind Gauge
+15:52:10.926 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:52:10.926 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.8C] Hum: [ 83%] Wind max: [ 1.6m/s] Wind avg: [ 1.5m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-69.5dBm]
+15:52:11.348 -> [CC1101] Receive failed: [0]
+15:52:21.509 -> [CC1101] Receive failed: [0]
+15:52:22.922 -> [CC1101] Data: D4 9F 74 2C 10 05 12 18 FE 67 FE 00 08 10 96 83 FF F0 11 00 00 00 00 00 00 00 00 
+15:52:22.922 -> [CC1101] R [D4] RSSI: -68.0
+15:52:22.922 -> DECODE_FAIL_SANITY !!!
+15:52:22.922 -> Digest check failed - [35DE] Vs [B717] (82C9)
+15:52:22.922 -> find_slot(): ID=2C100512
+15:52:22.922 -> find_slot(): Storing into slot #0
+15:52:22.922 -> ID 2C100512 is a Professional Wind Gauge
+15:52:22.922 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:52:22.922 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.9C] Hum: [ 83%] Wind max: [ 1.9m/s] Wind avg: [ 1.8m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-68.0dBm]
+15:52:26.842 -> [CC1101] Receive failed: [0]
+15:52:34.923 -> [CC1101] Data: D4 23 51 2C 10 05 12 18 FE AB FE 00 08 11 06 84 FF F0 5B 00 00 00 00 00 00 00 00 
+15:52:34.923 -> [CC1101] R [D4] RSSI: -68.0
+15:52:34.923 -> DECODE_FAIL_SANITY !!!
+15:52:34.923 -> Digest check failed - [89FB] Vs [4FA3] (C658)
+15:52:34.923 -> find_slot(): ID=2C100512
+15:52:34.923 -> find_slot(): Storing into slot #0
+15:52:34.923 -> ID 2C100512 is a Professional Wind Gauge
+15:52:34.923 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:52:34.923 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 11.0C] Hum: [ 84%] Wind max: [ 1.5m/s] Wind avg: [ 1.4m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-68.0dBm]
+15:52:46.104 -> [CC1101] Receive failed: [0]
+15:52:46.246 -> [CC1101] Receive failed: [0]
+15:52:53.392 -> [CC1101] Receive failed: [0]
+15:53:10.463 -> [CC1101] Receive failed: [0]
+15:53:10.893 -> [CC1101] Data: D4 84 81 2C 10 05 12 18 FD DF FD 00 08 10 96 83 FF F0 9B 00 00 00 00 00 00 00 00 
+15:53:10.893 -> [CC1101] R [D4] RSSI: -68.5
+15:53:10.893 -> DECODE_FAIL_SANITY !!!
+15:53:10.941 -> Digest check failed - [2E2B] Vs [4149] (6F62)
+15:53:10.941 -> find_slot(): ID=2C100512
+15:53:10.941 -> find_slot(): Storing into slot #0
+15:53:10.941 -> ID 2C100512 is a Professional Wind Gauge
+15:53:10.941 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:53:10.941 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.9C] Hum: [ 83%] Wind max: [ 2.2m/s] Wind avg: [ 2.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-68.5dBm]
+15:53:13.904 -> [CC1101] Receive failed: [0]
+15:53:19.073 -> [CC1101] Receive failed: [0]
+15:53:22.895 -> [CC1101] Data: D4 8A AD 2C 10 05 12 18 FD 8A FD 00 08 10 86 81 FF F0 02 00 00 00 00 00 00 00 00 
+15:53:22.895 -> [CC1101] R [D4] RSSI: -70.0
+15:53:22.895 -> DECODE_FAIL_SANITY !!!
+15:53:22.941 -> Digest check failed - [2007] Vs [FA64] (DA63)
+15:53:22.941 -> find_slot(): ID=2C100512
+15:53:22.941 -> find_slot(): Storing into slot #0
+15:53:22.941 -> ID 2C100512 is a Professional Wind Gauge
+15:53:22.941 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:53:22.941 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.8C] Hum: [ 81%] Wind max: [ 2.7m/s] Wind avg: [ 2.5m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-70.0dBm]
+15:53:24.741 -> [CC1101] Receive failed: [0]
+15:53:34.909 -> [CC1101] Data: D4 5C 6A 2C 10 05 12 18 FD 99 FD 00 08 10 76 80 FF F0 04 00 00 00 00 00 00 00 00 
+15:53:34.909 -> [CC1101] R [D4] RSSI: -69.0
+15:53:34.909 -> DECODE_FAIL_SANITY !!!
+15:53:34.909 -> Digest check failed - [F6C0] Vs [CD7B] (3BBB)
+15:53:34.909 -> find_slot(): ID=2C100512
+15:53:34.909 -> find_slot(): Storing into slot #0
+15:53:34.909 -> ID 2C100512 is a Professional Wind Gauge
+15:53:34.909 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:53:34.956 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.7C] Hum: [ 80%] Wind max: [ 2.6m/s] Wind avg: [ 2.6m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-69.0dBm]
+15:53:46.893 -> [CC1101] Data: D4 3B 74 2C 10 05 12 18 FD 67 FD 00 08 10 76 80 FF F0 36 00 00 00 00 00 00 00 00 
+15:53:46.893 -> [CC1101] R [D4] RSSI: -73.0
+15:53:46.893 -> DECODE_FAIL_SANITY !!!
+15:53:46.939 -> Digest check failed - [91DE] Vs [C46C] (55B2)
+15:53:46.939 -> find_slot(): ID=2C100512
+15:53:46.939 -> find_slot(): Storing into slot #0
+15:53:46.939 -> ID 2C100512 is a Professional Wind Gauge
+15:53:46.939 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:53:46.939 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.7C] Hum: [ 80%] Wind max: [ 2.9m/s] Wind avg: [ 2.8m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-73.0dBm]
+15:53:58.913 -> [CC1101] Data: D4 81 29 2C 10 05 12 18 FC DE FC 00 08 10 66 80 FF F0 D1 00 00 00 00 00 00 00 00 
+15:53:58.913 -> [CC1101] R [D4] RSSI: -71.5
+15:53:58.913 -> DECODE_FAIL_SANITY !!!
+15:53:58.913 -> Digest check failed - [2B83] Vs [FA26] (D1A5)
+15:53:58.913 -> find_slot(): ID=2C100512
+15:53:58.913 -> find_slot(): Storing into slot #0
+15:53:58.913 -> ID 2C100512 is a Professional Wind Gauge
+15:53:58.913 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:53:58.958 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.6C] Hum: [ 80%] Wind max: [ 3.2m/s] Wind avg: [ 3.1m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-71.5dBm]
+15:53:59.841 -> [CC1101] Receive failed: [0]
+15:54:10.901 -> [CC1101] Data: D4 FF 10 2C 10 05 12 18 FD 88 FD 00 08 10 66 80 FF F0 25 00 00 00 00 00 00 00 00 
+15:54:10.901 -> [CC1101] R [D4] RSSI: -70.5
+15:54:10.901 -> DECODE_FAIL_SANITY !!!
+15:54:10.901 -> Digest check failed - [55BA] Vs [C5FF] (9045)
+15:54:10.901 -> find_slot(): ID=2C100512
+15:54:10.947 -> find_slot(): Storing into slot #0
+15:54:10.947 -> ID 2C100512 is a Professional Wind Gauge
+15:54:10.947 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:54:10.947 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.6C] Hum: [ 80%] Wind max: [ 2.7m/s] Wind avg: [ 2.7m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-70.5dBm]
+15:54:18.578 -> [CC1101] Receive failed: [0]
+15:54:31.578 -> [CC1101] Receive failed: [0]
+15:54:34.929 -> [CC1101] Data: D4 A8 16 2C 10 05 12 18 FD DF FD 00 08 10 86 82 FF F0 AC 00 00 00 00 00 00 00 00 
+15:54:34.929 -> [CC1101] R [D4] RSSI: -78.5
+15:54:34.929 -> DECODE_FAIL_SANITY !!!
+15:54:34.929 -> Digest check failed - [2BC] Vs [3BF8] (3944)
+15:54:34.929 -> find_slot(): ID=2C100512
+15:54:34.929 -> find_slot(): Storing into slot #0
+15:54:34.929 -> ID 2C100512 is a Professional Wind Gauge
+15:54:34.929 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:54:34.929 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.8C] Hum: [ 82%] Wind max: [ 2.2m/s] Wind avg: [ 2.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-78.5dBm]
+15:54:46.927 -> [CC1101] Data: D4 5E C6 2C 10 05 12 18 FF FF FF 00 08 10 86 82 FF F0 88 00 00 00 00 00 00 00 00 
+15:54:46.927 -> [CC1101] R [D4] RSSI: -73.5
+15:54:46.927 -> DECODE_FAIL_SANITY !!!
+15:54:46.927 -> Digest check failed - [F46C] Vs [BEC1] (4AAD)
+15:54:46.927 -> find_slot(): ID=2C100512
+15:54:46.927 -> find_slot(): Storing into slot #0
+15:54:46.927 -> ID 2C100512 is a Professional Wind Gauge
+15:54:46.927 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:54:46.927 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.8C] Hum: [ 82%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-73.5dBm]
+15:54:51.580 -> [CC1101] Receive failed: [0]
+15:54:58.093 -> [CC1101] Receive failed: [0]
+15:54:58.931 -> [CC1101] Data: D4 1C 31 2C 10 05 12 18 FF FF FF 00 08 10 96 81 FF F0 79 00 00 00 00 00 00 00 00 
+15:54:58.931 -> [CC1101] R [D4] RSSI: -74.5
+15:54:58.931 -> DECODE_FAIL_SANITY !!!
+15:54:58.931 -> Digest check failed - [B69B] Vs [CDCA] (7B51)
+15:54:58.931 -> find_slot(): ID=2C100512
+15:54:58.931 -> find_slot(): Storing into slot #0
+15:54:58.931 -> ID 2C100512 is a Professional Wind Gauge
+15:54:58.931 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:54:58.931 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.9C] Hum: [ 81%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-74.5dBm]
+15:55:10.885 -> [CC1101] Data: D4 1C 31 2C 10 05 12 18 FF FF FF 00 08 10 96 81 FF F0 79 00 00 00 00 00 00 00 00 
+15:55:10.931 -> [CC1101] R [D4] RSSI: -87.5
+15:55:10.931 -> DECODE_FAIL_SANITY !!!
+15:55:10.931 -> Digest check failed - [B69B] Vs [CDCA] (7B51)
+15:55:10.931 -> find_slot(): ID=2C100512
+15:55:10.931 -> find_slot(): Storing into slot #0
+15:55:10.931 -> ID 2C100512 is a Professional Wind Gauge
+15:55:10.931 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:55:10.931 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.9C] Hum: [ 81%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-87.5dBm]
+15:55:21.371 -> [CC1101] Receive failed: [0]
+15:55:22.917 -> [CC1101] Data: D4 0B E8 2C 10 05 12 18 FF AA FF 00 08 11 46 83 FF F0 1B 00 00 00 00 00 00 00 00 
+15:55:22.917 -> [CC1101] R [D4] RSSI: -69.0
+15:55:22.917 -> DECODE_FAIL_SANITY !!!
+15:55:22.917 -> Digest check failed - [A142] Vs [DC5A] (7D18)
+15:55:22.917 -> find_slot(): ID=2C100512
+15:55:22.917 -> find_slot(): Storing into slot #0
+15:55:22.917 -> ID 2C100512 is a Professional Wind Gauge
+15:55:22.917 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:55:22.917 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 11.4C] Hum: [ 83%] Wind max: [ 0.5m/s] Wind avg: [ 0.5m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-69.0dBm]
+15:55:34.928 -> [CC1101] Data: D4 22 87 2C 10 05 12 18 FF 99 FF 00 08 11 76 87 FF F0 F8 00 00 00 00 00 00 00 00 
+15:55:34.928 -> [CC1101] R [D4] RSSI: -72.0
+15:55:34.928 -> DECODE_FAIL_SANITY !!!
+15:55:34.928 -> Digest check failed - [882D] Vs [C31A] (4B37)
+15:55:34.928 -> find_slot(): ID=2C100512
+15:55:34.928 -> find_slot(): Storing into slot #0
+15:55:34.928 -> ID 2C100512 is a Professional Wind Gauge
+15:55:34.928 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:55:34.928 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 11.7C] Hum: [ 87%] Wind max: [ 0.6m/s] Wind avg: [ 0.6m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-72.0dBm]
+15:55:45.660 -> [CC1101] Receive failed: [0]
+15:55:48.412 -> [CC1101] Receive failed: [0]
+15:55:58.894 -> [CC1101] Data: D4 46 D9 2C 10 05 12 18 FF FF FF 00 08 11 76 90 FF F0 89 00 00 00 00 00 00 00 00 
+15:55:58.894 -> [CC1101] R [D4] RSSI: -70.0
+15:55:58.894 -> DECODE_FAIL_SANITY !!!
+15:55:58.939 -> Digest check failed - [EC73] Vs [7DF1] (9182)
+15:55:58.939 -> find_slot(): ID=2C100512
+15:55:58.939 -> find_slot(): Storing into slot #0
+15:55:58.939 -> ID 2C100512 is a Professional Wind Gauge
+15:55:58.939 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:55:58.939 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 11.7C] Hum: [ 90%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-70.0dBm]
+15:56:10.894 -> [CC1101] Data: D4 29 D1 2C 10 05 12 18 FF FF FF 00 08 11 26 83 FF F0 E6 00 00 00 00 00 00 00 00 
+15:56:10.940 -> [CC1101] R [D4] RSSI: -77.0
+15:56:10.940 -> DECODE_FAIL_SANITY !!!
+15:56:10.940 -> Digest check failed - [837B] Vs [70B3] (F3C8)
+15:56:10.940 -> find_slot(): ID=2C100512
+15:56:10.940 -> find_slot(): Storing into slot #0
+15:56:10.940 -> ID 2C100512 is a Professional Wind Gauge
+15:56:10.940 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:56:10.940 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 11.2C] Hum: [ 83%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-77.0dBm]
+15:56:12.663 -> [CC1101] Receive failed: [0]
+15:56:12.893 -> [CC1101] Receive failed: [0]
+15:56:16.771 -> [CC1101] Receive failed: [0]
+15:56:22.887 -> [CC1101] Data: D4 38 EA 2C 10 05 12 18 FF FF FF 00 08 10 76 61 FF F0 B9 00 00 00 00 00 00 00 00 
+15:56:22.933 -> [CC1101] R [D4] RSSI: -81.5
+15:56:22.933 -> DECODE_FAIL_SANITY !!!
+15:56:22.933 -> Digest check failed - [9240] Vs [73F9] (E1B9)
+15:56:22.933 -> find_slot(): ID=2C100512
+15:56:22.933 -> find_slot(): Storing into slot #0
+15:56:22.933 -> ID 2C100512 is a Professional Wind Gauge
+15:56:22.933 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:56:22.933 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.7C] Hum: [ 61%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-81.5dBm]
+15:56:29.714 -> [CC1101] Receive failed: [0]
+15:56:34.921 -> [CC1101] Data: D4 CB 95 2C 10 05 12 18 FF FF FF 00 08 10 46 42 FF F0 08 00 00 00 00 00 00 00 00 
+15:56:34.921 -> [CC1101] R [D4] RSSI: -74.0
+15:56:34.921 -> DECODE_FAIL_SANITY !!!
+15:56:34.921 -> Digest check failed - [613F] Vs [4E69] (2F56)
+15:56:34.921 -> find_slot(): ID=2C100512
+15:56:34.921 -> find_slot(): Storing into slot #0
+15:56:34.921 -> ID 2C100512 is a Professional Wind Gauge
+15:56:34.921 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:56:34.921 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ 10.4C] Hum: [ 42%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-74.0dBm]
+15:56:43.712 -> [CC1101] Receive failed: [0]
+15:56:58.929 -> [CC1101] Data: D4 20 66 2C 10 05 12 18 FF FF FF 00 08 09 66 27 FF F0 0A 00 00 00 00 00 00 00 00 
+15:56:58.929 -> [CC1101] R [D4] RSSI: -80.0
+15:56:58.929 -> DECODE_FAIL_SANITY !!!
+15:56:58.929 -> Digest check failed - [8ACC] Vs [221A] (A8D6)
+15:56:58.929 -> find_slot(): ID=2C100512
+15:56:58.929 -> find_slot(): Storing into slot #0
+15:56:58.929 -> ID 2C100512 is a Professional Wind Gauge
+15:56:58.929 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:56:58.929 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  9.6C] Hum: [ 27%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-80.0dBm]
+15:57:05.847 -> [CC1101] Receive failed: [0]
+15:57:10.906 -> [CC1101] Data: D4 20 E4 2C 10 05 12 18 FF FF FF 00 08 09 06 24 FF F0 6D 00 00 00 00 00 00 00 00 
+15:57:10.906 -> [CC1101] R [D4] RSSI: -77.0
+15:57:10.906 -> DECODE_FAIL_SANITY !!!
+15:57:10.906 -> Digest check failed - [8A4E] Vs [D724] (5D6A)
+15:57:10.906 -> find_slot(): ID=2C100512
+15:57:10.953 -> find_slot(): Storing into slot #0
+15:57:10.953 -> ID 2C100512 is a Professional Wind Gauge
+15:57:10.953 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:57:10.953 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  9.0C] Hum: [ 24%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-77.0dBm]
+15:57:22.225 -> [CC1101] Receive failed: [0]
+15:57:34.688 -> [CC1101] Receive failed: [0]
+15:57:34.922 -> [CC1101] Data: D4 38 15 2C 10 05 12 18 FF FF FF 00 08 08 06 22 FF F0 70 00 00 00 00 00 00 00 00 
+15:57:34.922 -> [CC1101] R [D4] RSSI: -77.0
+15:57:34.922 -> DECODE_FAIL_SANITY !!!
+15:57:34.922 -> Digest check failed - [92BF] Vs [7A9F] (E820)
+15:57:34.922 -> find_slot(): ID=2C100512
+15:57:34.922 -> find_slot(): Storing into slot #0
+15:57:34.922 -> ID 2C100512 is a Professional Wind Gauge
+15:57:34.922 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:57:34.922 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  8.0C] Hum: [ 22%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-77.0dBm]
+15:57:46.929 -> [CC1101] Data: D4 71 87 2C 10 05 12 18 FF FF FF 00 08 07 56 21 FF F0 22 00 00 00 00 00 00 00 00 
+15:57:46.929 -> [CC1101] R [D4] RSSI: -80.0
+15:57:46.929 -> DECODE_FAIL_SANITY !!!
+15:57:46.929 -> Digest check failed - [DB2D] Vs [432F] (9802)
+15:57:46.929 -> find_slot(): ID=2C100512
+15:57:46.929 -> find_slot(): Storing into slot #0
+15:57:46.929 -> ID 2C100512 is a Professional Wind Gauge
+15:57:46.929 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:57:46.929 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  7.5C] Hum: [ 21%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-80.0dBm]
+15:57:50.128 -> [CC1101] Receive failed: [0]
+15:57:57.630 -> [CC1101] Receive failed: [0]
+15:58:12.481 -> [CC1101] Receive failed: [0]
+15:58:13.363 -> [CC1101] Receive failed: [0]
+15:58:17.979 -> [CC1101] Receive failed: [0]
+15:58:18.816 -> [CC1101] Receive failed: [0]
+15:58:22.905 -> [CC1101] Data: D4 86 A0 2C 10 05 12 18 FF FF FF 00 08 05 96 21 FF F0 E4 00 00 00 00 00 00 00 00 
+15:58:22.905 -> [CC1101] R [D4] RSSI: -75.5
+15:58:22.905 -> DECODE_FAIL_SANITY !!!
+15:58:22.905 -> Digest check failed - [2C0A] Vs [5F8A] (7380)
+15:58:22.905 -> find_slot(): ID=2C100512
+15:58:22.951 -> find_slot(): Storing into slot #0
+15:58:22.951 -> ID 2C100512 is a Professional Wind Gauge
+15:58:22.951 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:58:22.951 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  5.9C] Hum: [ 21%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-75.5dBm]
+15:58:31.776 -> [CC1101] Receive failed: [0]
+15:58:34.894 -> [CC1101] Data: D4 2E A3 2C 10 05 12 18 FF FF FF 00 08 05 46 21 FF F0 34 00 00 00 00 00 00 00 00 
+15:58:34.941 -> [CC1101] R [D4] RSSI: -73.0
+15:58:34.941 -> DECODE_FAIL_SANITY !!!
+15:58:34.941 -> Digest check failed - [8409] Vs [86A6] (2AF)
+15:58:34.941 -> find_slot(): ID=2C100512
+15:58:34.941 -> find_slot(): Storing into slot #0
+15:58:34.941 -> ID 2C100512 is a Professional Wind Gauge
+15:58:34.941 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:58:34.941 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  5.4C] Hum: [ 21%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-73.0dBm]
+15:58:37.633 -> [CC1101] Receive failed: [0]
+15:58:46.914 -> [CC1101] Data: D4 2C F1 2C 10 05 12 18 FF FF FF 00 08 04 96 21 FF F0 E5 00 00 00 00 00 00 00 00 
+15:58:46.914 -> [CC1101] R [D4] RSSI: -74.0
+15:58:46.914 -> DECODE_FAIL_SANITY !!!
+15:58:46.914 -> Digest check failed - [865B] Vs [E49E] (62C5)
+15:58:46.914 -> find_slot(): ID=2C100512
+15:58:46.914 -> find_slot(): Storing into slot #0
+15:58:46.914 -> ID 2C100512 is a Professional Wind Gauge
+15:58:46.914 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:58:46.960 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  4.9C] Hum: [ 21%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-74.0dBm]
+15:58:49.122 -> [CC1101] Receive failed: [0]
+15:58:55.063 -> [CC1101] Receive failed: [0]
+15:58:58.915 -> [CC1101] Data: D4 9F 55 2C 10 05 12 18 FF FF FF 00 08 04 56 21 FF F0 25 00 00 00 00 00 00 00 00 
+15:58:58.915 -> [CC1101] R [D4] RSSI: -72.0
+15:58:58.915 -> DECODE_FAIL_SANITY !!!
+15:58:58.915 -> Digest check failed - [35FF] Vs [5FF4] (6A0B)
+15:58:58.915 -> find_slot(): ID=2C100512
+15:58:58.915 -> find_slot(): Storing into slot #0
+15:58:58.915 -> ID 2C100512 is a Professional Wind Gauge
+15:58:58.915 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:58:58.961 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  4.5C] Hum: [ 21%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-72.0dBm]
+15:59:10.936 -> [CC1101] Data: D4 EA 6E 2C 10 05 12 18 FF FF FF 00 08 04 06 21 FF F0 75 00 00 00 00 00 00 00 00 
+15:59:10.936 -> [CC1101] R [D4] RSSI: -73.5
+15:59:10.936 -> DECODE_FAIL_SANITY !!!
+15:59:10.936 -> Digest check failed - [40C4] Vs [A48B] (E44F)
+15:59:10.936 -> find_slot(): ID=2C100512
+15:59:10.936 -> find_slot(): Storing into slot #0
+15:59:10.936 -> ID 2C100512 is a Professional Wind Gauge
+15:59:10.936 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:59:10.936 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  4.0C] Hum: [ 21%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-73.5dBm]
+15:59:22.901 -> [CC1101] Data: D4 D4 68 2C 10 05 12 18 FF FF FF 00 08 03 66 21 FF F0 16 00 00 00 00 00 00 00 00 
+15:59:22.901 -> [CC1101] R [D4] RSSI: -76.0
+15:59:22.901 -> DECODE_FAIL_SANITY !!!
+15:59:22.901 -> Digest check failed - [7EC2] Vs [29F7] (5735)
+15:59:22.948 -> find_slot(): ID=2C100512
+15:59:22.948 -> find_slot(): Storing into slot #0
+15:59:22.948 -> ID 2C100512 is a Professional Wind Gauge
+15:59:22.948 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:59:22.948 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  3.6C] Hum: [ 21%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-76.0dBm]
+15:59:34.194 -> [CC1101] Receive failed: [0]
+15:59:34.933 -> [CC1101] Data: D4 96 1D 2C 10 05 12 18 FF FF FF 00 08 03 16 21 FF F0 66 00 00 00 00 00 00 00 00 
+15:59:34.933 -> [CC1101] R [D4] RSSI: -73.5
+15:59:34.933 -> DECODE_FAIL_SANITY !!!
+15:59:34.933 -> Digest check failed - [3CB7] Vs [1604] (2AB3)
+15:59:34.933 -> find_slot(): ID=2C100512
+15:59:34.933 -> find_slot(): Storing into slot #0
+15:59:34.933 -> ID 2C100512 is a Professional Wind Gauge
+15:59:34.933 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:59:34.933 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  3.1C] Hum: [ 21%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-73.5dBm]
+15:59:40.812 -> [CC1101] Receive failed: [0]
+15:59:41.840 -> [CC1101] Receive failed: [0]
+15:59:45.365 -> [CC1101] Receive failed: [0]
+15:59:46.905 -> [CC1101] Data: D4 26 9F 2C 10 05 12 18 FF FF FF 00 0D 02 76 21 FF F0 02 00 00 00 00 00 00 00 00 
+15:59:46.905 -> [CC1101] R [D4] RSSI: -73.5
+15:59:46.905 -> DECODE_FAIL_SANITY !!!
+15:59:46.905 -> Digest check failed - [8C35] Vs [C9CC] (45F9)
+15:59:46.953 -> find_slot(): ID=2C100512
+15:59:46.953 -> find_slot(): Storing into slot #0
+15:59:46.953 -> ID 2C100512 is a Professional Wind Gauge
+15:59:46.953 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:59:46.953 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  2.7C] Hum: [ 21%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-73.5dBm]
+15:59:54.422 -> [CC1101] Receive failed: [0]
+15:59:56.511 -> [CC1101] Receive failed: [0]
+15:59:59.207 -> [CC1101] Data: D4 52 52 2C 10 05 12 18 FF FF FF 00 08 02 36 22 FF F0 46 00 00 00 00 00 00 00 00 
+15:59:59.255 -> [CC1101] R [D4] RSSI: -73.0
+15:59:59.255 -> DECODE_FAIL_SANITY !!!
+15:59:59.255 -> Digest check failed - [F8F8] Vs [6032] (98CA)
+15:59:59.255 -> find_slot(): ID=2C100512
+15:59:59.255 -> find_slot(): Storing into slot #0
+15:59:59.255 -> ID 2C100512 is a Professional Wind Gauge
+15:59:59.255 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+15:59:59.255 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  2.3C] Hum: [ 22%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-73.0dBm]
+16:00:11.223 -> [CC1101] Data: D4 56 F6 2C 10 05 12 18 FF FF FF 00 08 01 96 22 FF F0 E7 00 00 00 00 00 00 00 00 
+16:00:11.223 -> [CC1101] R [D4] RSSI: -77.0
+16:00:11.223 -> DECODE_FAIL_SANITY !!!
+16:00:11.223 -> Digest check failed - [FC5C] Vs [3B13] (C74F)
+16:00:11.223 -> find_slot(): ID=2C100512
+16:00:11.223 -> find_slot(): Storing into slot #0
+16:00:11.270 -> ID 2C100512 is a Professional Wind Gauge
+16:00:11.270 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+16:00:11.270 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  1.9C] Hum: [ 22%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-77.0dBm]
+16:00:12.060 -> [CC1101] Receive failed: [0]
+16:00:23.204 -> [CC1101] Data: D4 E5 52 2C 10 05 12 18 FF FF FF 00 08 01 56 22 FF F0 27 00 00 00 00 00 00 00 00 
+16:00:23.249 -> [CC1101] R [D4] RSSI: -77.5
+16:00:23.249 -> DECODE_FAIL_SANITY !!!
+16:00:23.249 -> Digest check failed - [4FF8] Vs [8079] (CF81)
+16:00:23.249 -> find_slot(): ID=2C100512
+16:00:23.249 -> find_slot(): Storing into slot #0
+16:00:23.249 -> ID 2C100512 is a Professional Wind Gauge
+16:00:23.249 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+16:00:23.249 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  1.5C] Hum: [ 22%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-77.5dBm]
+16:00:35.231 -> [CC1101] Data: D4 8B CE 2C 10 05 1A 18 FF FF FF 04 08 01 16 22 FF F0 67 00 00 00 00 00 00 00 00 
+16:00:35.231 -> [CC1101] R [D4] RSSI: -78.0
+16:00:35.231 -> DECODE_FAIL_SANITY !!!
+16:00:35.231 -> Digest check failed - [2164] Vs [74DB] (55BF)
+16:00:35.231 -> Digest check failed - [8BCE] != [51A0]
+16:00:35.231 -> Parity wrong at column 0
+16:00:47.229 -> [CC1101] Data: D4 4F 7D 2C 10 05 12 18 FF FF FF 00 08 00 74 23 FF F0 07 00 00 00 00 00 00 00 00 
+16:00:47.229 -> [CC1101] R [D4] RSSI: -76.0
+16:00:47.229 -> DECODE_FAIL_SANITY !!!
+16:00:47.229 -> Digest check failed - [E5D7] Vs [8876] (6DA1)
+16:00:47.229 -> Digest check failed - [4F7D] != [A215]
+16:00:47.229 -> Parity wrong at column 0
+16:00:50.807 -> [CC1101] Receive failed: [0]
+16:01:06.122 -> [CC1101] Receive failed: [0]
+16:01:11.233 -> [CC1101] Data: D4 16 AF 2C 10 05 12 18 FF FF FF 00 08 00 16 23 FF F0 67 00 00 00 00 00 00 00 00 
+16:01:11.233 -> [CC1101] R [D4] RSSI: -72.0
+16:01:11.233 -> DECODE_FAIL_SANITY !!!
+16:01:11.233 -> Digest check failed - [BC05] Vs [7570] (C975)
+16:01:11.233 -> find_slot(): ID=2C100512
+16:01:11.233 -> find_slot(): Storing into slot #0
+16:01:11.233 -> ID 2C100512 is a Professional Wind Gauge
+16:01:11.233 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+16:01:11.233 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  0.1C] Hum: [ 23%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-72.0dBm]
+16:01:12.819 -> [CC1101] Receive failed: [0]
+16:01:18.611 -> [CC1101] Receive failed: [0]
+16:01:23.211 -> [CC1101] Data: D4 3A 15 2C 10 05 12 18 FF FF FF 00 08 00 2E 24 FF F0 4E 00 00 00 00 00 00 00 00 
+16:01:23.258 -> [CC1101] R [D4] RSSI: -73.0
+16:01:23.258 -> DECODE_FAIL_SANITY !!!
+16:01:23.258 -> Digest check failed - [90BF] Vs [7179] (E1C6)
+16:01:23.258 -> find_slot(): ID=2C100512
+16:01:23.258 -> find_slot(): Storing into slot #0
+16:01:23.258 -> ID 2C100512 is a Professional Wind Gauge
+16:01:23.258 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+16:01:23.258 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ -0.2C] Hum: [ 24%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-73.0dBm]
+16:01:35.248 -> [CC1101] Data: D4 54 89 2C 10 05 12 18 FF FF FF 00 08 00 6E 24 FF F0 0E 00 00 00 00 00 00 00 00 
+16:01:35.248 -> [CC1101] R [D4] RSSI: -72.0
+16:01:35.248 -> DECODE_FAIL_SANITY !!!
+16:01:35.248 -> Digest check failed - [FE23] Vs [E840] (1663)
+16:01:35.248 -> find_slot(): ID=2C100512
+16:01:35.248 -> find_slot(): Storing into slot #0
+16:01:35.248 -> ID 2C100512 is a Professional Wind Gauge
+16:01:35.248 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+16:01:35.248 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ -0.6C] Hum: [ 24%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-72.0dBm]
+16:01:37.383 -> [CC1101] Receive failed: [0]
+16:01:47.222 -> [CC1101] Data: D4 CB C4 2C 10 05 12 18 FF FF FF 00 08 00 9E 24 FF F0 DE 00 00 00 00 00 00 00 00 
+16:01:47.222 -> [CC1101] R [D4] RSSI: -73.5
+16:01:47.222 -> DECODE_FAIL_SANITY !!!
+16:01:47.222 -> Digest check failed - [616E] Vs [9B16] (FA78)
+16:01:47.222 -> find_slot(): ID=2C100512
+16:01:47.222 -> find_slot(): Storing into slot #0
+16:01:47.269 -> ID 2C100512 is a Professional Wind Gauge
+16:01:47.269 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+16:01:47.269 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ -0.9C] Hum: [ 24%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-73.5dBm]
+16:01:52.363 -> [CC1101] Receive failed: [0]
+16:01:59.237 -> [CC1101] Data: D4 90 44 2C 10 05 12 18 FF FF FF 00 08 01 2E 24 FF F0 4D 00 00 00 00 00 00 00 00 
+16:01:59.237 -> [CC1101] R [D4] RSSI: -73.0
+16:01:59.237 -> DECODE_FAIL_SANITY !!!
+16:01:59.237 -> Digest check failed - [3AEE] Vs [AA8E] (9060)
+16:01:59.237 -> find_slot(): ID=2C100512
+16:01:59.237 -> find_slot(): Storing into slot #0
+16:01:59.237 -> ID 2C100512 is a Professional Wind Gauge
+16:01:59.237 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+16:01:59.283 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ -1.2C] Hum: [ 24%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-73.0dBm]
+16:02:03.468 -> [CC1101] Receive failed: [0]
+16:02:10.887 -> [CC1101] Receive failed: [0]
+16:02:11.210 -> [CC1101] Data: D4 E5 01 2C 10 05 12 18 FF FF FF 00 08 01 5E 25 FF F0 1C 00 00 00 00 00 00 00 00 
+16:02:11.257 -> [CC1101] R [D4] RSSI: -76.0
+16:02:11.257 -> DECODE_FAIL_SANITY !!!
+16:02:11.257 -> Digest check failed - [4FAB] Vs [2CAF] (6304)
+16:02:11.257 -> find_slot(): ID=2C100512
+16:02:11.257 -> find_slot(): Storing into slot #0
+16:02:11.257 -> ID 2C100512 is a Professional Wind Gauge
+16:02:11.257 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+16:02:11.257 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ -1.5C] Hum: [ 25%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-76.0dBm]
+16:02:14.508 -> [CC1101] Receive failed: [0]
+16:02:23.251 -> [CC1101] Data: D4 4D 02 2C 10 05 12 18 FF FF FF 00 08 01 8E 25 FF F0 EC 00 00 00 00 00 00 00 00 
+16:02:23.251 -> [CC1101] R [D4] RSSI: -73.5
+16:02:23.251 -> DECODE_FAIL_SANITY !!!
+16:02:23.251 -> Digest check failed - [E7A8] Vs [9B75] (7CDD)
+16:02:23.251 -> find_slot(): ID=2C100512
+16:02:23.251 -> find_slot(): Storing into slot #0
+16:02:23.251 -> ID 2C100512 is a Professional Wind Gauge
+16:02:23.251 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+16:02:23.251 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ -1.8C] Hum: [ 25%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-73.5dBm]
+16:02:30.215 -> [CC1101] Receive failed: [0]
+16:02:35.235 -> [CC1101] Data: D4 65 4F 2C 10 05 12 18 FF FF FF 00 08 02 1E 25 FF F0 5B 00 00 00 00 00 00 00 00 
+16:02:35.235 -> [CC1101] R [D4] RSSI: -82.0
+16:02:35.235 -> DECODE_FAIL_SANITY !!!
+16:02:35.235 -> Digest check failed - [CFE5] Vs [A94D] (66A8)
+16:02:35.235 -> find_slot(): ID=2C100512
+16:02:35.235 -> find_slot(): Storing into slot #0
+16:02:35.235 -> ID 2C100512 is a Professional Wind Gauge
+16:02:35.235 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+16:02:35.282 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ -2.1C] Hum: [ 25%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-82.0dBm]
+16:02:43.861 -> [CC1101] Receive failed: [0]
+16:02:45.951 -> [CC1101] Receive failed: [0]
+16:02:51.063 -> [CC1101] Receive failed: [0]
+16:02:52.501 -> [CC1101] Receive failed: [0]
+16:02:55.797 -> [CC1101] Receive failed: [0]
+16:02:59.236 -> [CC1101] Data: D4 7E 6A 2C 10 05 12 10 FF FF FF 00 08 02 6E 26 FF F0 0A 00 00 00 00 00 00 00 00 
+16:02:59.236 -> [CC1101] R [D4] RSSI: -74.0
+16:02:59.236 -> DECODE_FAIL_SANITY !!!
+16:02:59.236 -> Digest check failed - [D4C0] Vs [89] (D449)
+16:02:59.236 -> Digest check failed - [7E6A] != [DCE4]
+16:02:59.236 -> Parity wrong at column 0
+16:03:06.654 -> [CC1101] Receive failed: [0]
+16:03:11.250 -> [CC1101] Data: D4 E0 DF 2C 10 05 12 18 FF FF FF 00 08 01 2E 41 FF F0 30 00 00 00 00 00 00 00 00 
+16:03:11.250 -> [CC1101] R [D4] RSSI: -63.0
+16:03:11.250 -> DECODE_FAIL_SANITY !!!
+16:03:11.250 -> Digest check failed - [4A75] Vs [4D82] (7F7)
+16:03:11.250 -> find_slot(): ID=2C100512
+16:03:11.250 -> find_slot(): Storing into slot #0
+16:03:11.250 -> ID 2C100512 is a Professional Wind Gauge
+16:03:11.250 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+16:03:11.250 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ -1.2C] Hum: [ 41%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-63.0dBm]
+16:03:11.531 -> [CC1101] Receive failed: [0]
+16:03:12.739 -> [CC1101] Receive failed: [0]
+16:03:23.238 -> [CC1101] Data: D4 0B 51 2C 10 05 12 18 FF FF FF 00 08 00 1E 64 FF F0 1E 00 00 00 00 00 00 00 00 
+16:03:23.238 -> [CC1101] R [D4] RSSI: -76.5
+16:03:23.238 -> DECODE_FAIL_SANITY !!!
+16:03:23.238 -> Digest check failed - [A1FB] Vs [16B3] (B748)
+16:03:23.238 -> find_slot(): ID=2C100512
+16:03:23.238 -> find_slot(): Storing into slot #0
+16:03:23.238 -> ID 2C100512 is a Professional Wind Gauge
+16:03:23.238 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+16:03:23.238 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [ -0.1C] Hum: [ 64%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-76.5dBm]
+16:03:32.174 -> [CC1101] Receive failed: [0]
+16:03:32.547 -> [CC1101] Receive failed: [0]
+16:03:35.234 -> [CC1101] Data: D4 9C 85 2C 10 05 12 18 FF 99 FF 00 08 01 26 78 FF F0 67 00 00 00 00 00 00 00 00 
+16:03:35.234 -> [CC1101] R [D4] RSSI: -78.0
+16:03:35.234 -> DECODE_FAIL_SANITY !!!
+16:03:35.234 -> Digest check failed - [362F] Vs [9ECD] (A8E2)
+16:03:35.234 -> find_slot(): ID=2C100512
+16:03:35.234 -> find_slot(): Storing into slot #0
+16:03:35.234 -> ID 2C100512 is a Professional Wind Gauge
+16:03:35.234 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+16:03:35.282 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  1.2C] Hum: [ 78%] Wind max: [ 0.6m/s] Wind avg: [ 0.6m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-78.0dBm]
+16:03:42.087 -> [CC1101] Receive failed: [0]
+16:03:45.799 -> [CC1101] Receive failed: [0]
+16:03:47.239 -> [CC1101] Data: D4 33 0E 2C 10 05 12 18 FF FF FF 00 08 02 36 86 FF F0 E2 00 00 00 00 00 00 00 00 
+16:03:47.239 -> [CC1101] R [D4] RSSI: -80.0
+16:03:47.239 -> DECODE_FAIL_SANITY !!!
+16:03:47.239 -> Digest check failed - [99A4] Vs [14F7] (8D53)
+16:03:47.239 -> find_slot(): ID=2C100512
+16:03:47.239 -> find_slot(): Storing into slot #0
+16:03:47.239 -> ID 2C100512 is a Professional Wind Gauge
+16:03:47.239 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+16:03:47.239 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  2.3C] Hum: [ 86%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-80.0dBm]
+16:03:59.239 -> [CC1101] Data: D4 FD 4F 2C 10 05 12 18 FE 7A FE 00 08 03 66 90 FF F0 2E 00 00 00 00 00 00 00 00 
+16:03:59.239 -> [CC1101] R [D4] RSSI: -70.5
+16:03:59.239 -> DECODE_FAIL_SANITY !!!
+16:03:59.239 -> Digest check failed - [57E5] Vs [5BA4] (C41)
+16:03:59.239 -> find_slot(): ID=2C100512
+16:03:59.239 -> find_slot(): Storing into slot #0
+16:03:59.239 -> ID 2C100512 is a Professional Wind Gauge
+16:03:59.239 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+16:03:59.285 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  3.6C] Hum: [ 90%] Wind max: [ 1.8m/s] Wind avg: [ 1.5m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-70.5dBm]
+16:04:05.045 -> [CC1101] Receive failed: [0]
+16:04:11.223 -> [CC1101] Data: D4 ED 1C 2C 10 05 12 18 FE AD FE 00 08 04 56 93 FF F0 07 00 00 00 00 00 00 00 00 
+16:04:11.223 -> [CC1101] R [D4] RSSI: -68.5
+16:04:11.223 -> DECODE_FAIL_SANITY !!!
+16:04:11.223 -> Digest check failed - [47B6] Vs [9791] (D027)
+16:04:11.270 -> find_slot(): ID=2C100512
+16:04:11.270 -> find_slot(): Storing into slot #0
+16:04:11.270 -> ID 2C100512 is a Professional Wind Gauge
+16:04:11.270 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+16:04:11.270 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  4.5C] Hum: [ 93%] Wind max: [ 1.5m/s] Wind avg: [ 1.2m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-68.5dBm]
+16:04:21.357 -> [CC1101] Receive failed: [0]
+16:04:22.583 -> [CC1101] Receive failed: [0]
+16:04:28.188 -> [CC1101] Receive failed: [0]
+16:04:35.230 -> [CC1101] Data: D4 45 A4 2C 10 05 12 18 FE 79 FE 00 08 05 86 94 FF F0 09 00 00 00 00 00 00 00 00 
+16:04:35.230 -> [CC1101] R [D4] RSSI: -66.5
+16:04:35.230 -> DECODE_FAIL_SANITY !!!
+16:04:35.230 -> Digest check failed - [EF0E] Vs [555] (EA5B)
+16:04:35.230 -> find_slot(): ID=2C100512
+16:04:35.230 -> find_slot(): Storing into slot #0
+16:04:35.276 -> ID 2C100512 is a Professional Wind Gauge
+16:04:35.276 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+16:04:35.276 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  5.8C] Hum: [ 94%] Wind max: [ 1.8m/s] Wind avg: [ 1.6m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-66.5dBm]
+16:04:42.339 -> [CC1101] Receive failed: [0]
+16:04:43.409 -> [CC1101] Receive failed: [0]
+16:04:45.819 -> [CC1101] Receive failed: [0]
+16:04:47.218 -> [CC1101] Data: D4 07 44 2C 10 05 12 18 FE 9A FE 00 08 06 36 95 FF F0 36 00 00 00 00 00 00 00 00 
+16:04:47.265 -> [CC1101] R [D4] RSSI: -65.5
+16:04:47.265 -> DECODE_FAIL_SANITY !!!
+16:04:47.265 -> Digest check failed - [ADEE] Vs [E006] (4DE8)
+16:04:47.265 -> find_slot(): ID=2C100512
+16:04:47.265 -> find_slot(): Storing into slot #0
+16:04:47.265 -> ID 2C100512 is a Professional Wind Gauge
+16:04:47.265 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+16:04:47.265 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  6.3C] Hum: [ 95%] Wind max: [ 1.6m/s] Wind avg: [ 1.5m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-65.5dBm]
+16:04:50.148 -> [CC1101] Receive failed: [0]
+16:04:58.424 -> [CC1101] Receive failed: [0]
+16:04:59.213 -> [CC1101] Data: D4 E3 99 2C 10 05 12 18 FF 88 FF 00 08 06 56 95 FF F0 26 00 00 00 00 00 00 00 00 
+16:04:59.260 -> [CC1101] R [D4] RSSI: -68.0
+16:04:59.260 -> DECODE_FAIL_SANITY !!!
+16:04:59.260 -> Digest check failed - [4933] Vs [E4AF] (AD9C)
+16:04:59.260 -> find_slot(): ID=2C100512
+16:04:59.260 -> find_slot(): Storing into slot #0
+16:04:59.260 -> ID 2C100512 is a Professional Wind Gauge
+16:04:59.260 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+16:04:59.260 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  6.5C] Hum: [ 95%] Wind max: [ 0.7m/s] Wind avg: [ 0.7m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-68.0dBm]
+16:05:11.226 -> [CC1101] Data: D4 6C 0A 2C 10 05 12 18 FF 99 FF 00 08 06 76 95 FF F0 F5 00 00 00 00 00 00 00 00 
+16:05:11.226 -> [CC1101] R [D4] RSSI: -66.0
+16:05:11.226 -> DECODE_FAIL_SANITY !!!
+16:05:11.226 -> Digest check failed - [C6A0] Vs [5C17] (9AB7)
+16:05:11.226 -> find_slot(): ID=2C100512
+16:05:11.273 -> find_slot(): Storing into slot #0
+16:05:11.273 -> ID 2C100512 is a Professional Wind Gauge
+16:05:11.273 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+16:05:11.273 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  6.7C] Hum: [ 95%] Wind max: [ 0.6m/s] Wind avg: [ 0.6m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-66.0dBm]
+16:05:23.255 -> [CC1101] Data: D4 7F D3 2C 10 05 12 18 FF FF FF 00 08 07 06 96 FF F0 FD 00 00 00 00 00 00 00 00 
+16:05:23.255 -> [CC1101] R [D4] RSSI: -67.0
+16:05:23.255 -> DECODE_FAIL_SANITY !!!
+16:05:23.255 -> Digest check failed - [D579] Vs [CC15] (196C)
+16:05:23.255 -> find_slot(): ID=2C100512
+16:05:23.255 -> find_slot(): Storing into slot #0
+16:05:23.255 -> ID 2C100512 is a Professional Wind Gauge
+16:05:23.255 -> Temp: 1  Hum: 1  UV: 0  Wind: 1  Rain: 0  Moist: 0
+16:05:23.255 -> Id: [2C100512] Typ: [1] Battery: [OK ] Ch: [0] Temp: [  7.0C] Hum: [ 96%] Wind max: [ 0.0m/s] Wind avg: [ 0.0m/s] Wind dir: [  0.0deg] Rain: [-----.-mm] Moisture: [--%] UV index: [-.-%] Light (lux): [--.-Klux] RSSI: [-67.0dBm]
